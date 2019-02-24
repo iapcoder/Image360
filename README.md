@@ -1,0 +1,2 @@
+# Image360
+使用scrapy爬取360摄影美图，并分别实现MongoDB、MySQL、Image图片存储的三个Pipeline
